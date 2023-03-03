@@ -39,6 +39,7 @@
   <br>
   <img src="https://img.shields.io/badge/PyCharm-0?style=flat-square&logo=PyCharm&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Jupyter-FF7F00?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
