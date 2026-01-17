@@ -1,57 +1,31 @@
-<br>
+## Sehoon Park (박세훈) — AI Research Scientist/Engineer
 
-<div align = center>
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ParkSehoon&fontSize=70&animation=twinkling)
+**Protein Structure Prediction & Structure-based Interaction Modeling**  
+[![Resume](https://img.shields.io/badge/Resume-Drive-111?style=flat-square)](https://drive.google.com/drive/u/0/folders/1a8O340NECLEVGn8NS1EJCZ4w2acaIGK0)
+[![Blog](https://img.shields.io/badge/Blog-sehooni.github.io-111?style=flat-square)](https://sehooni.github.io/blog)
+[![Projects](https://img.shields.io/badge/Projects-Portfolio-111?style=flat-square)](https://sehooni.github.io/projects)
+[![Email](https://img.shields.io/badge/Email-74sehoon%40gmail.com-111?style=flat-square)](mailto:74sehoon@gmail.com)
 
-</div>
+---
 
-<div align=right>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsehooni&count_bg=%234506E4&title_bg=%23AEB2EC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+### ⭐ Research Highlight
+**[AlphaSS](https://github.com/iitp-ppi/AlphaSS)** — Disulfide-bond–aware AlphaFold2 pipeline  
+- **Method:** disulfide-bond **embedding + loss**  
+- **Impact:** **TM-score +2–3%** (MSA 충분), **+5–10%** (MSA 부족) / **SS-bond recall +50–100%**  
+- **Poster:** BIOINFO2024 (Oct. 2024)
 
-<!---
--  Hi, I’m @sehooni
-- 👀 I’m interested in Deep_learning, machine_learning, and Natural Language Processing(NLP).
-- 📫 How to reach me... send me an e-mail : 74sehoon@gmail.com
---->
+---
 
-### Hello 👋
-**sehooni/sehooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏆 Competitions / Hackathons
+- **CASP16 (DeepFold team)** — **3rd (Antibody/Peptide)** (Dec. 2024)
+- **LG Aimers 7th (DACON)** — **Finalist**, *Menu Demand Forecasting* (**Top 4%**)  
+  → [Dacon](https://dacon.io/competitions/official/236559/codeshare/12990)
+- **Smilegate FutureLab weeklython** — **1st**, *Game Scenario AI Generator*  
+  → [Repo](https://github.com/sehooni/AIStoryWeaver)
+- **Upstage Global AI Week** — **Finalist**, *AI Pharmacist Chatbot*  
+  → [Repo](https://github.com/sehooni/NutriPharmAI)
 
-<br>
+---
 
-<div align = center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehooni&show_icons=true&theme=transparent&count_private=true)
-
-</div>
- 
-<hr>
-
-<div align = center>
-  <h3> 🛠 Tech Stack 🛠 </h3>
-
-  <h5> Tech that I've used at least once </h5>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/PyCharm-0?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jupyter-FF7F00?style=flat-square&logo=Jupyter&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Jetson Nano-A2284?style=flat-square&logo=Nvidia&logoColor=white"/></a>
-</div>
-
-<hr>
-
-<h3 align="center"> 🚀 Blog 🚀 </h3>
-
-<div align="center" style="text-align:center">
-    
-[Sehoon's WorkSpace](https://sehooni.github.io)
-
-
+### 🔬 Current Work
+**Post-Master Researcher @ KBSI (Sep. 2025–Present)** — AlphaFold3/Protenix-based protein structure & interaction R&D
