@@ -18,6 +18,8 @@
 
 ### 🏆 Competitions / Hackathons
 - **CASP16 (DeepFold team)** — **3rd (Antibody/Peptide)** | Dec. 2024
+- **Google Deepmind Gemini 3 Seoul Hackathon** - **Finalist**, *Alpha BioAgent* | Feb. 2026
+  → [Repo](https://github.com/sehooni/Alpha_Agent)
 - **LG Aimers 7th (DACON)** — **Finalist**, *Menu Demand Forecasting* (**Top 4%** in preliminary round) | Sep. 2025  
   → [Dacon](https://dacon.io/competitions/official/236559/codeshare/12990)
 - **Smilegate FutureLab weeklython** — **1st**, *Game Scenario AI Generator* | July. 2024  
