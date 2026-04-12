@@ -24,7 +24,7 @@
   → [Dacon](https://dacon.io/competitions/official/236559/codeshare/12990)
 - **Smilegate FutureLab weeklython** — **1st**, *Game Scenario AI Generator* | July. 2024  
   → [Repo](https://github.com/sehooni/AIStoryWeaver)
-- **Upstage Global AI Week** — **Finalist**, *AI Pharmacist Chatbot* | Sep. 2024  
+- **Upstage Global AI Week** — **Finalist (Top 15)**, *AI Pharmacist Chatbot* | Sep. 2024  
   → [Repo](https://github.com/sehooni/NutriPharmAI)
 
 ---
