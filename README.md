@@ -30,4 +30,4 @@
 ---
 
 ### 🔬 Current Work
-**Post-Master Researcher @ KBSI (Sep. 2025–Present)** — AlphaFold3/Protenix-based protein structure & interaction R&D
+**BIO AI R&D Researcher @ CJ CheilJedang (July. 2026–Present)** — BIO AI R&D
