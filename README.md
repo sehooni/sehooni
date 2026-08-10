@@ -17,7 +17,6 @@
 ---
 
 ### 🏆 Competitions / Hackathons
-- **CASP16 (DeepFold team)** — **3rd (Antibody/Peptide)** | Dec. 2024
 - **Google Deepmind Gemini 3 Seoul Hackathon** - **Finalist (Top 6)**, *Alpha BioAgent* | Feb. 2026    
   → [Repo](https://github.com/sehooni/Alpha_Agent)
 - **LG Aimers 7th (DACON)** — **Finalist**, *Menu Demand Forecasting* (**Top 4%** in preliminary round) | Sep. 2025  
@@ -26,6 +25,12 @@
   → [Repo](https://github.com/sehooni/AIStoryWeaver)
 - **Upstage Global AI Week** — **Finalist (Top 15)**, *AI Pharmacist Chatbot* | Sep. 2024  
   → [Repo](https://github.com/sehooni/NutriPharmAI)
+
+---
+
+### 🏆 Conferences
+- **CASP16 (DeepFold team)** — **3rd (Antibody/Peptide)** | Dec. 2024
+
 
 ---
 
